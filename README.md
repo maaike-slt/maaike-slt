@@ -1,5 +1,16 @@
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=maaike-slt&color=aad100&style=for-the-badge" alt="page views">
+	<!-- page view -->
+	<img align="center"
+		alt="page view"
+		src="https://komarev.com/ghpvc/?username=maaike-slt&color=aad100&style=for-the-badge"
+	/>
+	<!-- wakatime total -->
+	<a href="https://wakatime.com/@018bbae6-494c-41a5-8466-2225b22d1ed3">
+		<img align="center"
+			alt="wakatime total"
+			src="https://wakatime.com/badge/user/018bbae6-494c-41a5-8466-2225b22d1ed3.svg?color=aad100&style=for-the-badge"
+		/>
+	</a>
 </p>
 
 <p align="center">
